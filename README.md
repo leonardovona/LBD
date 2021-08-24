@@ -1,1 +1,1 @@
-# LBD (Laboratorio Basi di Dati) 19/20 Project
+# LBD (Laboratorio Basi di Dati) 19/20 project
